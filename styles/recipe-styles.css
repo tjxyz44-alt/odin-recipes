@@ -53,3 +53,7 @@ body {
 .box.body li {
     padding-top: 5px;
 }
+
+#crepes-directions {
+    height: 300px;
+}
