@@ -45,3 +45,11 @@ body {
 .ingredients, .directions {
     height: 250px;
 }
+
+.box.body ol {
+    padding-right: 40px;
+}
+
+.box.body li {
+    padding-top: 5px;
+}
