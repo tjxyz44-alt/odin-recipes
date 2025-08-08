@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+    
+}
+
+.box {
+    background-color: white;
+    margin: 0 auto;
+    height: 150px;
+    width: 500px;
+    border-bottom: 5px solid green;
+    border-top: 5px solid green;
+}
+
+.box.top {
+    margin-top: 100px;
+}
+
+.header {
+    padding: 15px 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.box.bottom {
+    display: flex;
+    margin-top: 5px;
+
+}
+
+.links {
+    padding-top: 15px;
+}
+
+ul {
+    padding: 0 20px;
+}
+
+img {
+    height: 150px;
+    padding-left: 33%;   
+}
+
