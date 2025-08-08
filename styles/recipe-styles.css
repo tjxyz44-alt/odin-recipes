@@ -9,6 +9,7 @@ body {
     width: 500px;
     border-bottom: 5px solid green;
     border-top: 5px solid green;
+    margin-bottom: 5px;
 }
 
 .box.head {
@@ -31,4 +32,16 @@ body {
     height: 150px;
     padding-left: 100px;
     padding-right: 50px;
+}
+
+.box.body {
+    padding: 20px 0;
+}
+
+.box.body h2, h4, p {
+    padding: 0 10px;
+}
+
+.ingredients, .directions {
+    height: 250px;
 }
